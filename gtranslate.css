@@ -1,0 +1,15 @@
+
+/* CHANGE BG COLOR */
+.goog-te-gadget-simple{
+    background-color: rgba(0,0,0,0) !important;
+    border:1px solid rgba(0,0,0,0)  !important;
+}
+/* GOOGLE LOGO */
+.goog-te-gadget-simple > img{
+    display: none;
+}
+
+/* text color */
+.goog-te-gadget-simple .VIpgJd-ZVi9od-xl07Ob-lTBxed {
+    color: WHITE !important;
+}
